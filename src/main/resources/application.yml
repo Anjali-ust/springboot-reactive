@@ -5,4 +5,4 @@ spring:
       port: 27017
       database: ust
 server:
-  port: 2008
+  port: 6780
